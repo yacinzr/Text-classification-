@@ -10,8 +10,9 @@ my @myarticles =("a1.txt","e3.txt","ee.txt","k6.txt","m2.txt","md.txt","te.txt",
 "mo.txt","ez.txt","er.txt","ve.txt","ur.txt","je.txt","ir.txt","ff.txt","ch.txt",
 "ps.txt","in.txt","ft.txt","br.txt","ys.txt","wa.txt","mn.txt","ab.txt","cb.txt","dz.txt",
 "ns.txt","st.txt",);
+#----- change the path -------
 my $Reparticles   = 'E:\project_m2\fdms\article';
-#nlaymo ga3 les fichiers dictionnaire  fe directory wahde 
+
 
 
 my @dic_info; 
