@@ -1,0 +1,6 @@
+New power-supply systems for a wide range of vehicle platforms and a variety of electrical features are facing many requirements. 
+Among them are CO2 reduction, transient load response capability and redundancy. These requirements are amendments to the traditional 
+power-supply system requirements (such as voltage quality, for example). To fulfil those requirements several potential 12-V power-supply
+ topologies are taken into account. A second energy storage device is the classification for these solutions. The technology for the second 
+energy storage device can be considered within the entire landscape of batteries or capacitors. The battery based solutions will contain one of several lithium-ion chemistry or NiMH storage devices in addition 
+to the lead–acid battery. An alternative to an advanced battery is a capacitor technology for energy storage. The benefit of this technology is high-power capability but it offers only small additional energy content. To integrate a second energy storage device into the power-supply system, the storage technology has to be chosen wisely based on the specific requirements of the vehicle application.

@@ -1,0 +1,14 @@
+Descriptions:
+Capacitors belong to the family of
+passive components and are used
+in all areas of electronics. They allow
+to store a load
+electrical at the terminals of two electrodes separated by a
+insulator called dielectric .
+Their electrical performance depends on the nature of the
+dielectric and structure
+electrode-insulator-electrode. They are classified into three
+large families:
+ceramic capacitors;
+electrochemical capacitors;
+plastic film capacitors.

@@ -1,0 +1,54 @@
+ Performance parameters of batteries in conventional cars
+EPS requirements assign to the battery the ability to supply and absorb electric power and energy within a voltage functionality range that depends on the different driving modes:
+
+
+charging voltage in the range of 13–15 V;
+
+
+minimum discharge voltages depending on vehicle driving mode and board net layout, but typically above 6 V (inrush starting current)/9 V (starting)/12 V (driving).
+
+International standards and OEM specifications fix general the requirements for automotive batteries:
+
+
+nominal Cold Cranking current, initial voltage drop after a certain time, (e.g., 10 s); cold crank current (CCA) (Ah) and time to 6 V (to describe behaviour battery during engine start);
+
+
+nominal capacity Cn (Ah) (to describe the ability to support small loads over time);
+
+
+water consumption level (to define the maintenance level);
+
+
+charge-acceptance (to describe ability to be recharged during driving);
+
+•
+endurance ability when exposed to medium cycling (to describe cycle-life when SoC is floated over battery lifetime);
+
+•
+endurance ability against overcharge (to measure resistance to corrosion);
+
+•
+resistance to deep discharge (to describe behaviour after over discharges which can happen during extended parking phases);
+
+
+tilting and vibration resistance (to describe mechanical robustness and safety against acid leakage).
+
+Additionally, specific conditions of application influence classic automotive battery design:
+
+
+customer should not be forced or allowed to top up electrolyte level and/or battery is placed in compartments with limited ventilation; battery to be ‘maintenance free’;
+
+
+battery is placed just in front of hot engine causing an operational temperature range between 32°C and +75°C during driving mode (at hot climates still higher); battery to be resistant to severe thermal environment;
+
+battery is placed in narrow compartments or in the passenger compartment, gases and acid sprays from charging have to be transported away for safety reasons; battery to have a special ventilated lid including a central degassing system and flame arrestor;
+
+
+battery is placed far away from engine and starter which can cause power loss during charging and cranking; wiring in the car must prevent voltage losses and a battery to must have better recharge ability at lower voltage as well as higher cranking current (=lower internal resistance);
+
+
+battery is placed in areas/cars with high vibration or used as mechanical pulse damper; battery to have special design (special fixed groups, special separators and strap designs);
+
+battery has to survive very low temperatures or quick thermal changes; to adopt material for boxes and lids as well as internal resistance of battery.
+
+Battery position in the car, profile of usage in a car (layout of board net), thermal environment and mechanical stresses determine failure mode and lifetime of battery very strongly. Batteries installed in an area of higher temperature fail because of corrosion and dry out, batteries installed far away from engine suffer from sulfation and premature ageing of active- masses because of undercharging. Climate zones in which cars will be operated can accelerate these different failure modes.

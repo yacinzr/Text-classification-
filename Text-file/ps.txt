@@ -1,0 +1,15 @@
+The mission of the Center for Agile and Interconnected Microgrids (AIM) is to establish Michigan Tech as a national leader in agile microgrid research and education.
+
+Purpose
+Agile microgrids of the future will efficiently use stochastic generation, stochastic loads, and minimal energy storage to deliver power in both structured and unstructured environments. Their intelligent, multi-mode use of vehicles, high penetration of renewable sources, and system-level efficiency offer the promise of reducing fossil-fuel consumption.
+
+One purpose of the Mobile and Interconnected Microgrid Center is to develop technology and trained engineers for the design, deployment, and operation of agile microgrids with high penetration renewables, both fixed and mobile assets and the ability to interconnect within a cyber-secure framework.
+
+A multidisciplinary team of researchers has been working on individual topics for the past several years including:
+
+intelligent power electronics,
+microgrid modeling/optimization/control,
+curriculum development, and
+vehicle/microgrid integration.
+Another purpose of this center is to organize Michigan Tech’s current momentum, and the Henes Chair position, to secure external funding for a national center in microgrid research and education.
+

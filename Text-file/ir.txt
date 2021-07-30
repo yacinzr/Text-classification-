@@ -1,0 +1,11 @@
+2.4.3 Wilderness and Wildlife
+Electric power systems can have major impacts on wilderness and wildlife, mostly because fuels or hydroelectric facilities can be located in wilderness areas or because electric power systems in different areas 
+may find it beneficial to interconnect themselves to share resources. In particular, dams and wind turbines can affect wildlife. Submergence of habitat is the most obvious impact. In addition, the roads and power lines needed to construct, maintain, and connect hydroelectric facilities sometimes run through wilderness areas, fragmenting them. The vegetation below power lines must be trimmed, burned, or controlled with herbicides, and there must be access roads for maintenance, all of which have environmental impacts. 
+These effects may reduce the habitat for threatened species, or cause new species (including threatened species) to move into an area. 
+Birds are known to strike transmission towers and lines, but the numbers doing so are usually not very large, and proper routing and design can reduce bird deaths.
+
+Birds have also been known to strike wind turbines, sometimes in large numbers. This problem can be greatly reduced by modern designs that spin slower 
+and by not placing wind turbines in areas that birds use heavily as flight corridors.
+
+Underground and underwater electric cables are becoming more common, most often due to space restrictions, such as in major cities, 
+and partly because of aesthetic concerns. These cables are filled with dielectric oil and are armored. Breaks that leak the dielectric oil are rare and are usually identified quickly. Underwater cables are typically laid 1 or 2 m below the seafloor using a mechanical plow or hydraulic jet to create a trench, which is then filled in. This alters the seabed, and there are concerns that it might have permanent effects on fisheries and marine wildlife. Trawling and other fishing techniques, repair of the cable, and retrieval at end of life must all be considered.

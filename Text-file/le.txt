@@ -1,0 +1,38 @@
+Electrical engineering is a field which brings together the three electronic specialties,
+electrical engineering as well as automatic control, the essential factor that links these three techniques
+is energy.
+In ancient Greece, energeia meant "in work", "in action". The
+French has retained this meaning. Energy is a force in action every day!
+A kick in a soccer ball produces movement of the ball towards the
+partner or opponent's goals. The force of the pass or the shoot gave its
+energy to the balloon. The flame of the gas stove provides the necessary energy for the
+cooking pasta. The energy produced by the reactors of an airplane allows it to fly and
+well don't crash to the ground. The energy of a waterfall makes it possible to manufacture
+electricity. Light energy from the sun fuels plant growth.
+Ten can therefore deduce a first simple definition: Energy characterizes the
+ability to produce actions, for example to generate movement, modify the
+body temperature or to transform matter. Energy comes from different
+sources found in nature: wood, coal, oil, gas, wind,
+solar radiation, waterfalls, the internal heat of the earth, uranium. Can by hand
+take different forms: heat, muscle energy, mechanical energy, chemical energy,
+electrical energy for example. Its multiple forms can be transformed into
+the other.
+Electronics is the set of techniques that use electrical signals
+to capture, transmit and use information. An exception is the electronics of
+power used for the electric-electric conversion of energy on the other hand
+electrical engineering is the technical use of electricity, either as a support
+energy, or as an information medium. While the automatic is everything
+system that always performs the same work cycle for which it was programmed.
+The peculiarity of Electrical Engineering compared to Electronics, Automation and
+Informatics comes from the fact that the first is essentially concerned with the processing and
+conversion of electrical energy rather than signal processing (or
+information).Figure 1 illustrates this complementarity.
+To better understand the link between these three major techniques, let's take
+the example of home automation. The term home automation is made up of the grouping of two
+words. Domo which means house, and automatic.
+Home automation therefore brings together all the techniques and technologies allowing
+automation and improvement of tasks within a house or apartment.
+To do this, the devices in the house are integrated into
+communications that make it possible to manage the automatisms. Home automation covers
+automatic doors, security and remote monitoring systems, heating,
+management of energy, household appliances, audiovisual equipment and more.

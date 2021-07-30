@@ -1,0 +1,9 @@
+Data science has experienced a tremendous growth in recent years. The potential to create value out of data has attracted businesses which, as a result, has driven new investments in this field.
+The popularity and potential of data science along with the increasing demand for data scientists cause lots of people to make a career change to work in this field.
+The biggest challenge for aspiring data scientists is to take the first step into the field. I think what makes it hard to take the first step are the following reasons:
+Data science is an interdisciplinary field so it is difficult to obtain and evaluate the required skills.
+Data science is still evolving so it is not well established in the traditional education system yet.
+There is not a straightforward way to demonstrate your skills if you do not have prior job experience.
+In this article, I will elaborate on the third reason and provide my suggestion.
+If you follow Medium publications on data science, you must have seen articles that list data science projects to put in your resume or portfolio.
+They all are good for practicing hard skills such as coding, data wrangling, data science libraries and frameworks, machine learning algorithms and so on. However, they lack an important skill.

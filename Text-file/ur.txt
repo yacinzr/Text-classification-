@@ -1,0 +1,14 @@
+Energy networks in future naval ships and aircraft have demanding operational requirements, including nonlinear pulse power loads. These loads not only stress the electrical network but also can be a strain on the thermal cooling systems with tight temperature specifications and give rise to interactions and feedback between thermal and electrical subsystems. In addition, the demanding performance requirements can push the system to the edge of stability.
+
+This webinar will cover:
+
+- Electro-thermal modelling of a pulse power system
+
+- Theoretical tools to estimate the stability margins  
+
+- Methods to utilize HIL to evaluate the electro-thermal performance under various operational scenarios.
+
+Prof. Wayne W. Weaver received a B.S. degree in electrical engineering and a B.S. in mechanical engineering from GMI Engineering and Management Institute in 1997, and the M.S. and Ph.D. degrees in electrical engineering from the University of Illinois, Urbana-Champaign.
+
+He was a research and design engineer at Caterpillar Inc., Peoria, Illinois from 1997 to 2003. From 2006-2008 he also worked as a researcher at the U.S. Army Corp of Engineers, Engineering Research and Development Center (ERDC), Construction Engineering Research Lab (CERL) in Champaign IL on distributed and renewable energy technology research. Dr. Weaver is a registered professional engineer in the State of Illinois. He is currently The Dave House Associate Professor in the department of Electrical Engineering and the Co-Director of the Center for Agile and Interconnected Microgrids at Michigan Technological University.
+

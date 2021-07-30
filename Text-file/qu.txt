@@ -1,0 +1,17 @@
+
+What Do Analytical Chemists Do?
+Analytical chemists use their knowledge of chemistry, instrumentation, computers, and statistics to solve problems in almost all areas of chemistry and for all kinds of industries. For example, their measurements are used to assure the safety and quality of food, pharmaceuticals, and water; to assure compliance with environmental and other regulations; to support the legal process; to help physicians diagnose diseases; and to provide measurements and documentation essential to trade and commerce. Analytical chemists often work in service-related jobs and are employed in industry, academia, and government. They conduct basic laboratory research; perform process and product development; design instruments used in analytical analysis; teach; and work in marketing and law. Analytical chemistry can be a challenging profession that makes significant contributions to many fields of science.
+
+Typical Job Functions
+erform qualitative and quantitative analysis
+Sample, define, isolate, concentrate, and preserve sample
+Set error limits
+Validate and verify results through calibration and standardization
+Perform separations based on differential chemical properties
+Create new ways to make measurements
+Interpret data in proper context
+Communicate their results and conclusions to other scientists
+Specialized Knowledge
+Automation has decreased the demand for analytical chemists to conduct repeated routine analysis—robots can prepare and analyze many samples, while advances in computer power allow the development of increasingly sophisticated algorithms to analyze and interpret analytical results. Though high-volume routine instrumental analyses using well-defined procedures are automated, knowledge of the organic, inorganic, and physical chemistry of the sample and the measurement is valuable, particularly when troubleshooting.
+
+These increasingly sophisticated analytical methods and instrumentation as well as increasing regulatory requirements have opened new opportunities for analytical chemists in a variety of areas. For example, quality assurance specialists help to guarantee that analytical laboratories follow documented and approved procedures, and chemists with solid technical and computer skills are needed to develop and use complex analytical techniques. Government agencies need analytical chemists to verify compliance with regulatory requirements. Finally, corporate downsizings and outsourcing have provided the impetus for many entrepreneurial analytical chemists to start their own businesses, specializing in particular kinds of analyses or classes of compounds.

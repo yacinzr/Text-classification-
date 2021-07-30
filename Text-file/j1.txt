@@ -1,0 +1,5 @@
+JupyterLab now provides the ability to set the display language of the user interface.
+Users will need to install the language pack as a separate Python package. Language packs are grouped in the language packs repository on GitHub, and can be installed with pip. For example, it is possible to install the language pack for Simplified Chinese using the following command:
+pip install jupyterlab-language-pack-zh-CN
+The Simple Interface mode (previously known as the Single-Document Mode) has been significantly updated to have a more streamlined, document-oriented feel.
+To make the Simple Interface mode more discoverable, there is now a switch to toggle it in the status bar. You can also toggle it from the View menu or the command palette, or use the default keyboard shortcut Ctrl/Cmd+Shift+D.

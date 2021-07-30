@@ -1,0 +1,4 @@
+We have already given basic stuff related to Jetpack Compose in our previous blog Saying Hello to Jetpack Compose.
+Jetpack compose is the new way to build UI for your android applications in a declarative manner. Now no more XML needed and you can build Android apps without construct the XML layout code.
+Is it really possible to make UI design without XML??
+Yes… You can do it with latest Jetpack Compose modern UI toolkit to make this thing possible. Using Compose, you can build your user interface by defining a set of composable functions that take in data and emit UI elements.

@@ -1,0 +1,23 @@
+This chapter deals with the design concepts of power supply systems (PSSs) for energising the magnet systems of tokamaks, as well as with the main problems arising in the course of their development and the approaches to solutions of these problems. The peculiarities of the requirements imposed on the PSSs of two main groups of the magnet system’s coils, which have essentially different functions, namely, the toroidal field and poloidal field coils, are considered. Particular attention is given to the description of the means for the protection of the superconducting coils. The last section describes high-current switching devices used for initiation of plasma discharge and for emergency extraction of energy from magnet systems in case of coil superconductor-to-normal transition. The focus is on the switches, superior to commercial products in the key parameters, developed at the Efremov Institute in the framework of the ITER project.
+
+Electric power systems
+S. Vasantharathna, in Electric Renewable Energy Systems, 2016
+
+18.5.2.6 Load flow solution for microgrids
+Load flow is the procedure used for obtaining the steady-state voltages of electric power systems at fundamental frequency. An efficient power flow solution looks for fast convergence, minimum usage of memory (computationally efficient), and a numerically robust solution for all the scenarios. Load flow studies on transmission networks are well developed using G–S and N–R methods and their decoupled versions. Because of the some of the following special features the distribution networks fall in the category of ill-conditioned power systems for these conventional load flow methods.
+
+
+Radial or weakly meshed networks.
+
+
+High R/X ratios.
+
+
+Multiphase, unbalanced operation.
+
+
+Unbalanced distributed load.
+
+Distributed generation.
+
+A single-phase representation of three-phase system is used for power flow studies on a transmission system that is assumed as a balanced network in most cases. But the unbalanced loads, radial structure of the network, and untransposed conductors make the distribution system as an unbalanced system. Hence, three-phase power flow analysis needs to be used for distribution systems. The three-phase power flow analysis can be carried out in two different reference frames, namely, phase frame and sequence frame. Phase frame deals directly with unbalanced quantities and sequence frame deals with three separate positive, negative, and zero sequence systems to solve the unbalanced load flow conditions in the circuit. Load flow analysis in distributed generation is carried out using the forward and backward sweep method, compensation methods, implicit Z bus method, direct method (bus injection to branch current and branch current to bus voltage matrices method), or modified Newton methods.

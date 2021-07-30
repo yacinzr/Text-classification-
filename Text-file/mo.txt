@@ -1,0 +1,45 @@
+SUMMARY - Very high voltage electrical systems have
+need to be strengthened to facilitate exchanges, maintain the
+operational safety, and connect offshore sources.
+Certain limits of alternative networks then appear. The
+Multi-terminal high voltage direct current (HVDC) networks may be an alternative subject to finding
+solutions to scientific and technological barriers
+existing. The challenges encountered are at the heart of electrical engineering,
+both in terms of material, component and system. This
+article presents the main challenges to be met in the
+field of electrical engineering to make operation possible
+reliable and safe HVDC networks.
+Keywords— Electrical system, multi-terminal HVDC networks, HVDC converters, high voltage semiconductors.
+1. THE CONSTRUCTION OF ELECTRICAL NETWORKS
+The first electrical networks developed at the end
+of the 19th century, in a context of competition between
+continuous technologies (Edison in the USA, Desprez in Europe)
+and alternative (Westinghouse-Tesla in the USA, Siemens in
+Europe). The increase in demand quickly showed
+the limits of continuous flow in terms of energy efficiency and
+cutting technologies. Thanks to the invention of
+transformer, the AC solution will allows to
+transport large power flows at high voltage
+to reduce losses, then gradually lower the
+tension by approaching points of consumption. During
+a century, electrical systems have therefore developed
+according to this technology with the deployment of large means of
+centralized production connected to transmission networks
+interconnected meshes to which networks of
+distribution with radial structure to supply the points of
+consumption. In the second part of the 20th century, the
+development of electronic power components a
+allowed to initiate direct current link projects for
+the transmission of power beyond the seas (Italy-Corsica-Sardinia, France-England or those in the Baltic Sea),
+or over very long land distances. Today the
+electricity consumption in developed countries remains
+growth, and developing countries have strong needs
+infrastructure (production and electricity networks). To that
+In addition, there are environmental objectives that encourage
+use of renewable sources such as hydraulics,
+solar or wind. Large deposits (offshore or potential
+hydraulic) can be moved away from consumption areas
+which requires transport infrastructure. Moreover the
+countries tend to strengthen interconnections to increase the
+reliability of the electrical system and to facilitate exchanges
+energy in a liberalized environment.

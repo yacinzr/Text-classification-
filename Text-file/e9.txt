@@ -1,0 +1,26 @@
+The heterogeneity and often multidomain character of
+systems in which the Electrical Engineering operates
+complicate their overall analysis. Yet the approach
+system is essential because it highlights the
+couplings between elements located in different
+disciplines. to facilitate this process, the formalism
+unifying modeling "Bond Graph" is used to
+visualize energy transfers. Otherwise,
+this methodology offers interesting perspectives
+in terms of systemic analysis, the subject of this thesis. Of them
+model simplification methods have been studied and
+compared. This is the Disturbance Methods
+Singular, based on the dynamic separation of
+elements, and the MORA (Model Order Reduction
+Algorithm), based on energy activity. These methods
+can lead us to simplify the Bond model
+Graph as a function of the frequency range of the signals
+inputs / outputs. To analyze the stability, the method
+location of the poles and Lyapunov's second method have
+been studied and applied using the Bond formalism
+Graph. These different analysis techniques are
+applied using the Bond Graph formalism. These
+different analysis techniques are applied to the case
+study of an industrial railway traction chain. ABSTRACT: In Electrical Engineering, the global analysis of systems is difficult because of their heterogeneity and their multidomain nature. Nevertheless, this system approach is essential because it underlines couplings between elements of different physical fields. To facilitate this analysis, the unified formalism Bond Graph is used. This modeling method illustrates the energetic transfers in the system. Moreover, this methodology offers interesting solutions in terms of system analysis. Two simplification methods have been investigated and compared, i.e. the Singular Perturbations Method (SPM), based on the dynamic analysis of elements, and the Model Order Reduction Algorithm (MORA), based on the energetic activity. By these methods, a simplified bond graph model can be obtained for a given frequency range. The stability analysis by the root locus method and the Lyapunov’s second method have been examined and applied with the Bond Graph formalism support. An industrial railway traction system is
+considered as the case study in the application of these
+different technical analysis.

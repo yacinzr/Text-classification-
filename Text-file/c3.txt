@@ -1,0 +1,8 @@
+The coil
+ Self-inductive effect:
+When a current flows through a conductor, it is responsible for creating a
+magnetic induction fields. If the current is variable over time, the field
+induction will also be and then the phenomenon of self-induction intervenes: this field
+variable feeds back on the current which creates it, by slowing down the variation of this current. This
+effect corresponds to energy storage in the auto circuit
+magnetic.

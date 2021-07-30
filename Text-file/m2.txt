@@ -1,0 +1,9 @@
+What is Google Cloud Function?
+Google Cloud Functions is a serverless compute product, which allows you to write functions that get triggered when an event attached to it is fired. Since it’s a serverless service, we don’t have to worry about setting up or managing servers or any infrastructure. This kind of product is also known as functions as a service (FaaS).
+It’s cost effective as it only runs when the event attached to it is triggered, and terminates after the execution of the function. Furthermore, the resources scale automatically in response to the frequency of events. Therefore without having to do any further work, it can scale to handle events accordingly, from a few invocations to millions of invocations a day.
+In our case, we are going to use this serverless solution offering from GCP, to serve our machine learning model predictions in response to HTTP request events.
+Simply put, we will deploy our model as a function, which responds to model prediction requests via HTTP endpoint.
+Housekeeping
+This article assumes you already have a GCP account. If you don’t have one, signup here which comes with some free credits.
+If you want to interact with your GCP account from your local machine, install the Google Cloud SDK using the steps outlined here.
+All the code in this article was developed in Python 3.8. The codes and necessary files for this article can be found in the GitHub repository here.

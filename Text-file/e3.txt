@@ -1,0 +1,11 @@
+EDA helps in identifying any outlier data points, understanding the relationships between the various attributes and structure of the data, recognizing the important variables. It helps in framing questions and visualizing the results, paving the way to make an informed choice of the machine learning algorithm for the problem in hand.
+While working on performing EDA, it is important that we keep our objective in mind. Plotting fancy graphs is not the aim but deriving useful insights is.
+Keeping that in mind, in this article we would look into an example of EDA performed on the Haberman’s survival dataset which is available on Kaggle.
+Objective of this analysis is:- To find patterns within the dataset to gain further understanding of the data and leverage it to choose a machine learning algorithm for predicting the survival rates of patients who undergo the surgery.
+The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago’s Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
+Data attributes:-
+Age of patient at time of operation (numerical)
+Patient’s year of operation (year — 1900, numerical)
+Number of positive axillary nodes detected (numerical)
+Survival status (class attribute) 1 = the patient survived 5 years or longer, 2 = the patient died within 5 year
+We start by loading the data into a data frame
